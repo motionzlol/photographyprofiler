@@ -1,6 +1,10 @@
 # photographyprofiler
 
 
+# PUT profile.py AND upload.py INTO A COGS FOLDER.
+
+
+
 Was looking to make a bot for photographers, have no motivation to complete.
 
 
