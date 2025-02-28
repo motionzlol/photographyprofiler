@@ -1,0 +1,9 @@
+discord.py
+pillow
+asyncio
+requests
+
+
+^^^^^^^^^^^
+
+prolly some other ones i cba
